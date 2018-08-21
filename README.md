@@ -57,6 +57,11 @@ The architecture patterns used for this application are based on DDD (Domain-Dri
 OrderApi\Order.Infrastructure> dotnet run
 ```
 
+## Continuous Integration
+
+**Travis CI** has been used to run the tests.
+Each pushed commit runs the unit tests.
+
 ## How To Run Unit Tests
 
 * Open solution in Visual Studio 2017
