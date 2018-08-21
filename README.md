@@ -1,4 +1,5 @@
 # Order API
+[![Build Status](https://travis-ci.org/Lidiadev/OrderApi.png?branch=master)](https://travis-ci.org/Lidiadev/OrderApi)
 
 OrderAPI is a RESTful API with the following feature:
 - create orders for products like website and paid search campaings.
